@@ -1,0 +1,7 @@
+{
+  "name": "Aarogya Mind",
+  "description": "Smart Health Records & Emergency Response System. Features ABHA-linked health records and location-based smart ambulance dispatch.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
